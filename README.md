@@ -149,12 +149,3 @@ Made with 💻 by \[Your Name]
 
 ```
 
----
-
-Would you like me to:
-- **Insert your name + GitHub repo link**?
-- Create a **demo GIF** from webcam to add visual impact?
-- Help write a `Dockerfile` or `.jar` packaging guide inside the repo?
-
-Let me know, and I’ll tailor the README even further for you 💡
-```
